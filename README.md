@@ -23,4 +23,4 @@ As well as exploring the advantages of `implicits` for graphical outputs we want
 
 ### Aditional Pages and Drafts
 
-  * [[State of the art|State of the Art]]
+  * https://github.com/vascogrilo/thesis/wiki/_pages
