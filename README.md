@@ -16,5 +16,5 @@ Porto, Portugal.
 
  * Resumo (Português): http://bit.ly/1403fsa
  * Resumo (English): http://bit.ly/VMz9FG
- * Thesis (English): http://bit.ly/SBlaDc
+ * Thesis (English): http://bit.ly/WPpi0o
 
